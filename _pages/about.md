@@ -1,6 +1,6 @@
 I am currently a Lecturer in Computer Science within the Department of Computer Science at Brunel University of London. I completed my PhD at King's College London in 2019. I also completed my MSci in Computer Science at King's College London in 2015 with a 1st class degree.
 
-My current work lies in the creation of algorithms and data structures with applications in computational biology. Specifically, this involves identifying and creating algorithms and data structures which can aid biological research. I also work on string algorithms with applications in pattern matching, indexing and sequence comparison.
+My current work lies in the creation of algorithms and data structures with applications in computational biology. Specifically, this involves creating tools that manipulate sequential data, which can aid biological research. I also work on the development of string algorithms with applications in pattern matching, indexing and sequence comparison.
 
 ***
 #### Tools I have helped to design, implement and maintain:
