@@ -1,9 +1,9 @@
 ---
-permalink: /teaching/
+permalink: /teaching/teaching.html
 author_profile: true
 redirect_from: 
-  - /teaching/
-  - /teaching.html
+  - /teaching
+  - teaching.html
 ---
 
 ### 2024-2025
