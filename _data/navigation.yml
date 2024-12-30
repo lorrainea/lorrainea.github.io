@@ -10,10 +10,10 @@ main:
   #  url: /research/
     
   - title: "Publications"
-    url: https://scholar.google.co.uk/citations?user=i51w1C0AAAAJ&hl=en
+    url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/teaching.md
     
   - title: "Activities"
     url: /activities/
