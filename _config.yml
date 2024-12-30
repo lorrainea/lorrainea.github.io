@@ -21,14 +21,14 @@ repository               : "lorrainea/lorrainea.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Lorraine Ayad"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer in Computer Science"
   location         : "London, UK"
   employer         : Brunel University of London
   uri              : # URL
-  email            : "lorraine.ayad[at]brunel.ac.uk"
+  email            : ""lorraine.ayad[at]brunel.ac.uk""
 
   # Academic websites
  # arxiv            : # URL - Update with the correct link to your profile
