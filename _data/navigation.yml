@@ -6,8 +6,8 @@
 
 main:
 
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
     
   - title: "Publications"
     url: https://scholar.google.co.uk/citations?user=i51w1C0AAAAJ&hl=en
