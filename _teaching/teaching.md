@@ -1,3 +1,11 @@
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
+---
+
 ### 2024-2025
 
 An Introduction to Python (MSc) 
