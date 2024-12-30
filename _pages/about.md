@@ -13,7 +13,6 @@ redirect_from:
 My current work lies in the creation of algorithms and data structures with applications in computational biology. Specifically, this involves creating tools that manipulate sequential data, which can aid biological research. I also work on the development of string algorithms with applications in pattern matching, indexing and sequence comparison.
 
 ***
-
 ## Publications
 ###### 📝 Verbeek, H., Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Minimizing the Minimizers via Alphabet Reordering. In S. Inenaga & S. J. Puglisi (Eds.), 35th Annual Symposium on Combinatorial Pattern Matching, CPM 2024, June 25-27, 2024, Fukuoka, Japan (Vol. 296, p. 28:1-28:13). Schloss Dagstuhl - Leibniz-Zentrum für Informatik. [DOI](https://doi.org/10.4230/LIPICS.CPM.2024.28)
 
@@ -28,14 +27,11 @@ My current work lies in the creation of algorithms and data structures with appl
 ###### A full list can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=i51w1C0AAAAJ&view_op=list_works&sortby=pubdate) or [DBLP](https://dblp.org/pid/193/1681.html).
 
 ***
-
 ## Activities 
-
 #### Presentations
-
 ###### [BITS 2023 (Bari)](https://bioinformatics.it/bits2023/1633/workshop) ▪️ EMBnet AGM 2022 (Athens) ▪️ [GOBLET/EMBnet AGM 2021 (online)](https://www.mygoblet.org/goblet-agm-2021-11-15-october-agenda-and-registration/) ▪️ [String Bio 2018 (Orlando)](http://www.cs.ucf.edu/stringbio2018/) ▪️ ECCB 2018 (Athens) ▪️ DSB 2017 (Amsterdam).
 
-#### Conference Chairing
+#### Conference Chairing 
 ###### [SPIRE 2020](https://www.cs.ucf.edu/spire2020/) ▪️ [MatBio 2018](https://nms.kcl.ac.uk/informatics/events/MatBio2018/) ▪️ [LSD & LAW 2018](https://nms.kcl.ac.uk/informatics/events/LSD&LAW18/).
 
 #### Programme Committees
@@ -51,22 +47,12 @@ My current work lies in the creation of algorithms and data structures with appl
 ###### [LSD & LAW 2019](https://www.journals.elsevier.com/theoretical-computer-science/call-for-papers/27th-london-stringology-days-london-algorithmic-workshop) special issue for the journal of Theoretical Computer Science.
 
 ***
-
 ## Grants and Awards
-
 ###### 🥇 2024: Brunel University Mid and Early Career Academic Research Support Scheme.
-
 ###### 🥇 2023: The London Mathematical Society - Conference Grants.
-
 ###### 🥇 2022: Fellow of the Higher Education Academy (Distinction).
-
 ###### 🥇 2021: Brunel University Research Seminar Series Awards 2021-2022.
-
 ###### 🥇 2019: The London Mathematical Society - Computer Science Small Grants.
-
 ###### 🥇 2017: Associate Fellow of the Higher Education Academy.
-
 ###### 🥇 2016-2017: Outstanding Teaching Assistant Award - King's College London (Undergraduate).
-
 ###### 🥇 2015-2019: Doctoral Training Account studentship awarded by the Engineering and Physical Sciences Research Council (EPSRC).
-
