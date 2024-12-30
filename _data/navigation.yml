@@ -4,7 +4,7 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main: /pages/about.md
+main:
 
   #- title: "Research"
   #  url: /research/
@@ -13,7 +13,7 @@ main: /pages/about.md
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/teaching.md
+    url: /teaching/
     
   - title: "Activities"
     url: /activities/
