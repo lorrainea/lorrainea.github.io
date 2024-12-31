@@ -1,13 +1,12 @@
 ---
 permalink: /
 title: test
-css: new_head.css
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-\
+<br/>
 ## About Me
 🖥️ I am currently a Lecturer in Computer Science within the Department of Computer Science at Brunel University of London. \
 🎓 I completed my PhD at King's College London in 2019.
