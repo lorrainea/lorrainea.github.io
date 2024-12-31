@@ -1,3 +1,10 @@
+---
+permalink: /
+title: ""
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 ## About Me
 🖥️ I am currently a Lecturer in Computer Science within the Department of Computer Science at Brunel University of London. \
