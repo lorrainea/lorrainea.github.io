@@ -1,22 +1,17 @@
 ---
 permalink: /
-title: 
-margin-top: -100px
+title: About Me
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<br/>
-
-## About Me
 🖥️ I am currently a Lecturer in Computer Science within the Department of Computer Science at Brunel University of London. \
 🎓 I completed my PhD at King's College London in 2019.
 
 My current work lies in the creation of algorithms and data structures with applications in computational biology. Specifically, this involves creating tools that manipulate sequential data, which can aid biological research. I also work on the development of string algorithms with applications in pattern matching, indexing and sequence comparison.
 
 ***
-## Publications
+# Publications
 ###### 📝 Verbeek, H., Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Minimizing the Minimizers via Alphabet Reordering. In S. Inenaga & S. J. Puglisi (Eds.), 35th Annual Symposium on Combinatorial Pattern Matching, CPM 2024, June 25-27, 2024, Fukuoka, Japan (Vol. 296, p. 28:1-28:13). Schloss Dagstuhl - Leibniz-Zentrum für Informatik. [DOI](https://doi.org/10.4230/LIPICS.CPM.2024.28)
 
 ###### 📝 Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Text Indexing for Long Patterns using Locally Consistent Anchors. [URL](https://arxiv.org/abs/2407.11819) 
@@ -30,7 +25,7 @@ My current work lies in the creation of algorithms and data structures with appl
 ###### A full list can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=i51w1C0AAAAJ&view_op=list_works&sortby=pubdate) or [DBLP](https://dblp.org/pid/193/1681.html).
 
 ***
-## Activities 
+# Activities 
 ### Presentations
 ###### [BITS 2023 (Bari)](https://bioinformatics.it/bits2023/1633/workshop) ▪️ EMBnet AGM 2022 (Athens) ▪️ [GOBLET/EMBnet AGM 2021 (online)](https://www.mygoblet.org/goblet-agm-2021-11-15-october-agenda-and-registration/) ▪️ [String Bio 2018 (Orlando)](http://www.cs.ucf.edu/stringbio2018/) ▪️ ECCB 2018 (Athens) ▪️ DSB 2017 (Amsterdam).
 
@@ -50,7 +45,7 @@ My current work lies in the creation of algorithms and data structures with appl
 ###### [LSD & LAW 2019](https://www.journals.elsevier.com/theoretical-computer-science/call-for-papers/27th-london-stringology-days-london-algorithmic-workshop) special issue for the journal of Theoretical Computer Science.
 
 ***
-## Grants and Awards
+# Grants and Awards
 ###### 🥇 2024: Brunel University Mid and Early Career Academic Research Support Scheme.
 ###### 🥇 2023: The London Mathematical Society - Conference Grants.
 ###### 🥇 2022: Fellow of the Higher Education Academy (Distinction).
