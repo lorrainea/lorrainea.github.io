@@ -1,12 +1,3 @@
----
-permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 ## About Me
 🖥️ I am currently a Lecturer in Computer Science within the Department of Computer Science at Brunel University of London. \
 🎓 I completed my PhD at King's College London in 2019.
@@ -29,22 +20,22 @@ My current work lies in the creation of algorithms and data structures with appl
 
 ***
 ## Activities 
-#### Presentations
+### Presentations
 ###### [BITS 2023 (Bari)](https://bioinformatics.it/bits2023/1633/workshop) ▪️ EMBnet AGM 2022 (Athens) ▪️ [GOBLET/EMBnet AGM 2021 (online)](https://www.mygoblet.org/goblet-agm-2021-11-15-october-agenda-and-registration/) ▪️ [String Bio 2018 (Orlando)](http://www.cs.ucf.edu/stringbio2018/) ▪️ ECCB 2018 (Athens) ▪️ DSB 2017 (Amsterdam).
 
-#### Conference Chairing 
+### Conference Chairing 
 ###### [SPIRE 2020](https://www.cs.ucf.edu/spire2020/) ▪️ [MatBio 2018](https://nms.kcl.ac.uk/informatics/events/MatBio2018/) ▪️ [LSD & LAW 2018](https://nms.kcl.ac.uk/informatics/events/LSD&LAW18/).
 
-#### Programme Committees
+### Programme Committees
 ###### [WABI 2024](https://algo-conference.org/2024/wabi/) ▪️ [SPIRE 2021](https://www.cristal.univ-lille.fr/spire2021/) ▪️ [SPIRE 2020](https://www.cs.ucf.edu/spire2020/)
 
-#### Organising Committees
+### Organising Committees
 ###### BBW 2023 ▪️ BBW 2022 ▪️ [MatBio 2018](https://nms.kcl.ac.uk/informatics/events/MatBio2018/) ▪️ [MatBio 2017](https://nms.kcl.ac.uk/informatics/events/MatBio2017/) ▪️ [SEA 2017](https://nms.kcl.ac.uk/informatics/events/SEA2017/prog.html) ▪️ [LSD & LAW 2017](https://nms.kcl.ac.uk/informatics/events/LSD&LAW17/) ▪️ MatBio 2016
 
-#### Paper Reviews
+### Paper Reviews \
 ###### Journal of Supercomputing ▪️ BMC AMB ▪️ BMC Bioinformatics ▪️ SPIRE ▪️ WABI ▪️ ESWA ▪️ IWOCA ▪️ Oxford Bioinformatics ▪️ ECCB ▪️ JDA ▪️ CPM ▪️ SWAT ▪️ JDPC
 
-#### Guest Editing
+### Guest Editing
 ###### [LSD & LAW 2019](https://www.journals.elsevier.com/theoretical-computer-science/call-for-papers/27th-london-stringology-days-london-algorithmic-workshop) special issue for the journal of Theoretical Computer Science.
 
 ***
