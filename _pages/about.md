@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: test
-css: new_head.css
+title: 
+margin-top: -20px; 
 redirect_from: 
   - /about/
   - /about.html
