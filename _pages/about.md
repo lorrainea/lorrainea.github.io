@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: ""
+css: new_head.css
 redirect_from: 
   - /about/
   - /about.html
