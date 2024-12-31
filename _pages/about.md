@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: 
-margin-top: -20px
+margin-top: -100px
 redirect_from: 
   - /about/
   - /about.html
