@@ -32,7 +32,7 @@ My current work lies in the creation of algorithms and data structures with appl
 ### Organising Committees
 ###### BBW 2023 ▪️ BBW 2022 ▪️ [MatBio 2018](https://nms.kcl.ac.uk/informatics/events/MatBio2018/) ▪️ [MatBio 2017](https://nms.kcl.ac.uk/informatics/events/MatBio2017/) ▪️ [SEA 2017](https://nms.kcl.ac.uk/informatics/events/SEA2017/prog.html) ▪️ [LSD & LAW 2017](https://nms.kcl.ac.uk/informatics/events/LSD&LAW17/) ▪️ MatBio 2016
 
-### Paper Reviews \
+### Paper Reviews
 ###### Journal of Supercomputing ▪️ BMC AMB ▪️ BMC Bioinformatics ▪️ SPIRE ▪️ WABI ▪️ ESWA ▪️ IWOCA ▪️ Oxford Bioinformatics ▪️ ECCB ▪️ JDA ▪️ CPM ▪️ SWAT ▪️ JDPC
 
 ### Guest Editing
