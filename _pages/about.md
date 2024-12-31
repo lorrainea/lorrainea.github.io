@@ -1,6 +1,6 @@
 ---
 permalink: /
-hide:
+hide: 
   - title: ""
 redirect_from: 
   - /about/
