@@ -5,10 +5,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🖥️ I am currently a Lecturer in Computer Science within the Department of Computer Science at Brunel University of London. \
-🎓 I completed my PhD at King's College London in 2019.
+###### 🖥️ I am currently a Lecturer in Computer Science within the Department of Computer Science at Brunel University of London. 🎓 I completed my PhD at King's College London in 2019.
 
-My current work lies in the creation of algorithms and data structures with applications in computational biology. Specifically, this involves creating tools that manipulate sequential data, which can aid biological research. I also work on the development of string algorithms with applications in pattern matching, indexing and sequence comparison.
+###### My current work lies in the creation of algorithms and data structures with applications in computational biology. Specifically, this involves creating tools that manipulate sequential data, which can aid biological research. I also work on the development of string algorithms with applications in pattern matching, indexing and sequence comparison.
 
 ***
 # Publications
@@ -16,7 +15,7 @@ My current work lies in the creation of algorithms and data structures with appl
 
 ###### 📝 Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Text Indexing for Long Patterns using Locally Consistent Anchors. [URL](https://arxiv.org/abs/2407.11819) 
 
-###### 📝 Ayad, L. A. K., Loukides, G., Pissis, S. P., & Verbeek, H. (2024). Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast. In J. A. Soto & A. Wiese (Eds.), LATIN 2024: Theoretical Informatics - 16th Latin American Symposium, Puerto Varas, Chile, March 18-22, 2024, Proceedings, Part I (Vol. 14578, pp. 162–177). Springer. [DOI](https://doi.org/10.1007/978-3-031-55598-5\_11)
+###### 📝 Ayad, L. A. K., Loukides, G., Pissis, S. P., & Verbeek, H. (2024). Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast. In J. A. Soto & A. Wiese (Eds.), LATIN 2024: Theoretical Informatics - 16th Latin American Symposium, Puerto Varas, Chile, March 18-22, 2024, Proceedings, Part I (Vol. 14578, pp. 162–177). Springer. [DOI](https://doi.org/10.1007/978-3-031-55598-5_11)
 
 ###### 📝 Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2023). Text Indexing for Long Patterns: Anchors are All you Need. Proc. VLDB Endow., 16(9), 2117–2131. [DOI](https://doi.org/10.14778/3598581.3598586)
 
@@ -31,7 +30,7 @@ My current work lies in the creation of algorithms and data structures with appl
 
 ### Conference Chairing 
 ###### [SPIRE 2020](https://www.cs.ucf.edu/spire2020/) ▪️ [MatBio 2018](https://nms.kcl.ac.uk/informatics/events/MatBio2018/) ▪️ [LSD & LAW 2018](https://nms.kcl.ac.uk/informatics/events/LSD&LAW18/).
-
+  
 ### Programme Committees
 ###### [WABI 2024](https://algo-conference.org/2024/wabi/) ▪️ [SPIRE 2021](https://www.cristal.univ-lille.fr/spire2021/) ▪️ [SPIRE 2020](https://www.cs.ucf.edu/spire2020/)
 
@@ -42,7 +41,7 @@ My current work lies in the creation of algorithms and data structures with appl
 ###### Journal of Supercomputing ▪️ BMC AMB ▪️ BMC Bioinformatics ▪️ SPIRE ▪️ WABI ▪️ ESWA ▪️ IWOCA ▪️ Oxford Bioinformatics ▪️ ECCB ▪️ JDA ▪️ CPM ▪️ SWAT ▪️ JDPC
 
 ### Guest Editing
-###### [LSD & LAW 2019](https://www.journals.elsevier.com/theoretical-computer-science/call-for-papers/27th-london-stringology-days-london-algorithmic-workshop) special issue for the journal of Theoretical Computer Science.
+###### [LSD & LAW 2019](https://www.sciencedirect.com/special-issue/10M68D5RQ2V) special issue for the journal of Theoretical Computer Science.
 
 ***
 # Grants and Awards
