@@ -26,16 +26,16 @@ redirect_from:
 ***
 ## Activities 
 ### Presentations
-<p><font size="2"><a href="https://bioinformatics.it/bits2023/1633/workshop">[BITS 2023 (Bari)]</a> ▪️ EMBnet AGM 2022 (Athens) ▪️ <a href="https://www.mygoblet.org/goblet-agm-2021-11-15-october-agenda-and-registration/">[GOBLET/EMBnet AGM 2021 (online)]</a> ▪️ <a href="http://www.cs.ucf.edu/stringbio2018/">[String Bio 2018 (Orlando)]</a> ▪️ ECCB 2018 (Athens) ▪️ DSB 2017 (Amsterdam).</font></p>
+<p><font size="2"><a href="https://bioinformatics.it/bits2023/1633/workshop">[BITS 2023 (Bari)]</a> ▪️ EMBnet AGM 2022 (Athens) ▪️ <a href="https://www.mygoblet.org/goblet-agm-2021-11-15-october-agenda-and-registration/">[GOBLET/EMBnet AGM 2021 (online)]</a> ▪️ [String Bio 2018 (Orlando)] ▪️ ECCB 2018 (Athens) ▪️ DSB 2017 (Amsterdam).</font></p>
 
 ### Conference Chairing 
-<p><font size="2"><a href="https://www.cs.ucf.edu/spire2020/">[SPIRE 2020]</a> ▪️ <a href="https://nms.kcl.ac.uk/informatics/events/MatBio2018/">[MatBio 2018]</a> ▪️ <a href="https://nms.kcl.ac.uk/informatics/events/LSD&LAW18/">[LSD & LAW 2018]</a>.</font></p>
+<p><font size="2">[SPIRE 2020] ▪️ [MatBio 2018] ▪️ [LSD & LAW 2018]</font></p>
   
 ### Programme Committees
-<p><font size="2"><a href="https://wabiconf.github.io/2025/">[WABI 2025]</a> ▪️ <a href="https://algo-conference.org/2024/wabi/">[WABI 2024]</a> ▪️ <a href="https://www.cristal.univ-lille.fr/spire2021/">[SPIRE 2021]</a> ▪️ <a href="https://www.cs.ucf.edu/spire2020/">[SPIRE 2020]</a></font></p>
+<p><font size="2"><a href="https://wabiconf.github.io/2025/">[WABI 2025]</a> ▪️ <a href="https://algo-conference.org/2024/wabi/">[WABI 2024]</a> ▪️ <a href="https://www.cristal.univ-lille.fr/spire2021/">[SPIRE 2021]</a> ▪️ [SPIRE 2020]</font></p>
 
 ### Organising Committees
-<p><font size="2">BBW 2023 ▪️ BBW 2022 ▪️ <a href = "https://nms.kcl.ac.uk/informatics/events/MatBio2018/">[MatBio 2018]</a> ▪️ <a href="https://nms.kcl.ac.uk/informatics/events/MatBio2017/">[MatBio 2017]</a> ▪️ <a href="https://nms.kcl.ac.uk/informatics/events/SEA2017/prog.html">[SEA 2017]</a> ▪️ <a href="https://nms.kcl.ac.uk/informatics/events/LSD&LAW17/">[LSD & LAW 2017]</a> ▪️ MatBio 2016</font></p>
+<p><font size="2">BBW 2023 ▪️ BBW 2022 ▪️ [MatBio 2018] ▪️ [MatBio 2017] ▪️ [SEA 2017] ▪️ [LSD & LAW 2017] ▪️ MatBio 2016</font></p>
 
 ### Paper Reviews
 <p><font size="2">Journal of Supercomputing ▪️ BMC AMB ▪️ BMC Bioinformatics ▪️ SPIRE ▪️ WABI ▪️ ESWA ▪️ IWOCA ▪️ Oxford Bioinformatics ▪️ ECCB ▪️ JDA ▪️ CPM ▪️ SWAT ▪️ JDPC</font></p>
