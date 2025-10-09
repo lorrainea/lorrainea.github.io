@@ -26,22 +26,22 @@ redirect_from:
 ***
 ## Activities 
 ### Presentations
-###### [BITS 2023 (Bari)](https://bioinformatics.it/bits2023/1633/workshop) ▪️ EMBnet AGM 2022 (Athens) ▪️ [GOBLET/EMBnet AGM 2021 (online)](https://www.mygoblet.org/goblet-agm-2021-11-15-october-agenda-and-registration/) ▪️ [String Bio 2018 (Orlando)](http://www.cs.ucf.edu/stringbio2018/) ▪️ ECCB 2018 (Athens) ▪️ DSB 2017 (Amsterdam).
+<p><font size="2"><a href="https://bioinformatics.it/bits2023/1633/workshop>[BITS 2023 (Bari)]</a> ▪️ EMBnet AGM 2022 (Athens) ▪️ <a href="https://www.mygoblet.org/goblet-agm-2021-11-15-october-agenda-and-registration/">[GOBLET/EMBnet AGM 2021 (online)]</a> ▪️ <a href="http://www.cs.ucf.edu/stringbio2018/">[String Bio 2018 (Orlando)]</a> ▪️ ECCB 2018 (Athens) ▪️ DSB 2017 (Amsterdam).</font></p>
 
 ### Conference Chairing 
-###### [SPIRE 2020](https://www.cs.ucf.edu/spire2020/) ▪️ [MatBio 2018](https://nms.kcl.ac.uk/informatics/events/MatBio2018/) ▪️ [LSD & LAW 2018](https://nms.kcl.ac.uk/informatics/events/LSD&LAW18/).
+<p><font size="2"><a href="https://www.cs.ucf.edu/spire2020/>[SPIRE 2020]</a> ▪️ <a href="https://nms.kcl.ac.uk/informatics/events/MatBio2018/">[MatBio 2018]</a> ▪️ <a href="https://nms.kcl.ac.uk/informatics/events/LSD&LAW18/>[LSD & LAW 2018]</a>.</font></p>
   
 ### Programme Committees
-###### [WABI 2025](https://wabiconf.github.io/2025/) ▪️ [WABI 2024](https://algo-conference.org/2024/wabi/) ▪️ [SPIRE 2021](https://www.cristal.univ-lille.fr/spire2021/) ▪️ [SPIRE 2020](https://www.cs.ucf.edu/spire2020/)
+<p><font size="2"><a href="https://wabiconf.github.io/2025/">[WABI 2025]</a> ▪️ <a href="https://algo-conference.org/2024/wabi/>[WABI 2024]</a> ▪️ <a href="https://www.cristal.univ-lille.fr/spire2021/>[SPIRE 2021]</a> ▪️ <a href="https://www.cs.ucf.edu/spire2020/>[SPIRE 2020]</a></font></p>
 
 ### Organising Committees
-###### BBW 2023 ▪️ BBW 2022 ▪️ [MatBio 2018](https://nms.kcl.ac.uk/informatics/events/MatBio2018/) ▪️ [MatBio 2017](https://nms.kcl.ac.uk/informatics/events/MatBio2017/) ▪️ [SEA 2017](https://nms.kcl.ac.uk/informatics/events/SEA2017/prog.html) ▪️ [LSD & LAW 2017](https://nms.kcl.ac.uk/informatics/events/LSD&LAW17/) ▪️ MatBio 2016
+<p><font size="2">BBW 2023 ▪️ BBW 2022 ▪️ <a href = "https://nms.kcl.ac.uk/informatics/events/MatBio2018/">[MatBio 2018]</a> ▪️ <a href="https://nms.kcl.ac.uk/informatics/events/MatBio2017/>[MatBio 2017]</a> ▪️ <a href="https://nms.kcl.ac.uk/informatics/events/SEA2017/prog.html">[SEA 2017]</a> ▪️ <a href="https://nms.kcl.ac.uk/informatics/events/LSD&LAW17/">[LSD & LAW 2017]</a> ▪️ MatBio 2016</font></p>
 
 ### Paper Reviews
-###### Journal of Supercomputing ▪️ BMC AMB ▪️ BMC Bioinformatics ▪️ SPIRE ▪️ WABI ▪️ ESWA ▪️ IWOCA ▪️ Oxford Bioinformatics ▪️ ECCB ▪️ JDA ▪️ CPM ▪️ SWAT ▪️ JDPC
+<p><font size="2">Journal of Supercomputing ▪️ BMC AMB ▪️ BMC Bioinformatics ▪️ SPIRE ▪️ WABI ▪️ ESWA ▪️ IWOCA ▪️ Oxford Bioinformatics ▪️ ECCB ▪️ JDA ▪️ CPM ▪️ SWAT ▪️ JDPC</font></p>
 
 ### Guest Editing
-###### [LSD & LAW 2019](https://www.sciencedirect.com/special-issue/10M68D5RQ2V) special issue for the journal of Theoretical Computer Science.
+<p><font size="2"><a href="https://www.sciencedirect.com/special-issue/10M68D5RQ2V">LSD & LAW 2019</a> special issue for the journal of Theoretical Computer Science.</font></p>
 
 ***
 ## Grants and Awards
