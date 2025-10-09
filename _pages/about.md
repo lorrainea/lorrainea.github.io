@@ -10,7 +10,7 @@ redirect_from:
 <p><font size="2">My current work lies in the creation of algorithms and data structures with applications in computational biology. Specifically, this involves creating tools that manipulate sequential data, which can aid biological research. I also work on the development of string algorithms with applications in pattern matching, indexing and sequence comparison.</font></p>
 
 ***
-# Publications
+## Publications
 <p><font size="2">📝 Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2025). Text Indexing for Long Patterns using Locally Consistent Anchors. The VLDB Journal. 34(5): 58. <a href="https://doi.org/10.1007/s00778-025-00935-7">[DOI]</a></font></p>
 
 <p><font size="2">📝 Ayad, L. A. K., Fici, G., Koerkamp, R. G., Loukides, G., Patro, R., Pibiri, G. E., Pissis, S. P. (2025) U-Index: A Universal Indexing Framework for Matching Long Patterns. SEA 2025: 4:1-4:18. <a href="https://doi.org/10.4230/LIPIcs.SEA.2025.4">[DOI]</a></font></p>
@@ -24,7 +24,7 @@ redirect_from:
 <p><font size="2">A full list can be found on <a href="https://scholar.google.com/citations?hl=en&user=i51w1C0AAAAJ&view_op=list_works&sortby=pubdate">[Google Scholar]</a> or <a href="https://dblp.org/pid/193/1681.html">[DBLP]</a>.</font></p>
 
 ***
-# Activities 
+## Activities 
 ### Presentations
 ###### [BITS 2023 (Bari)](https://bioinformatics.it/bits2023/1633/workshop) ▪️ EMBnet AGM 2022 (Athens) ▪️ [GOBLET/EMBnet AGM 2021 (online)](https://www.mygoblet.org/goblet-agm-2021-11-15-october-agenda-and-registration/) ▪️ [String Bio 2018 (Orlando)](http://www.cs.ucf.edu/stringbio2018/) ▪️ ECCB 2018 (Athens) ▪️ DSB 2017 (Amsterdam).
 
@@ -44,7 +44,7 @@ redirect_from:
 ###### [LSD & LAW 2019](https://www.sciencedirect.com/special-issue/10M68D5RQ2V) special issue for the journal of Theoretical Computer Science.
 
 ***
-# Grants and Awards
+## Grants and Awards
 <p><font size="2">🥇 2024: Brunel University Mid and Early Career Academic Research Support Scheme.</font></p>
 <p><font size="2">🥇 2023: The London Mathematical Society - Conference Grants.</font></p>
 <p><font size="2">🥇 2022: Fellow of the Higher Education Academy (Distinction).</font></p>
