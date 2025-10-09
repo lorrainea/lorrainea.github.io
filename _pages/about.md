@@ -11,17 +11,17 @@ redirect_from:
 
 ***
 # Publications
-<p><font size="2">📝 Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2025). Text Indexing for Long Patterns using Locally Consistent Anchors. The VLDB Journal. 34(5): 58. [DOI](https://doi.org/10.1007/s00778-025-00935-7)</font></p>
+<p><font size="2">📝 Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2025). Text Indexing for Long Patterns using Locally Consistent Anchors. The VLDB Journal. 34(5): 58. <a href=https://doi.org/10.1007/s00778-025-00935-7)>DOI</a></font></p>
 
-<p><font size="2">📝 Ayad, L. A. K., Fici, G., Koerkamp, R. G., Loukides, G., Patro, R., Pibiri, G. E., Pissis, S. P. (2025) U-Index: A Universal Indexing Framework for Matching Long Patterns. SEA 2025: 4:1-4:18 [DOI](https://doi.org/10.4230/LIPIcs.SEA.2025.4)</font></p>
+<p><font size="2">📝 Ayad, L. A. K., Fici, G., Koerkamp, R. G., Loukides, G., Patro, R., Pibiri, G. E., Pissis, S. P. (2025) U-Index: A Universal Indexing Framework for Matching Long Patterns. SEA 2025: 4:1-4:18 <a href=https://doi.org/10.4230/LIPIcs.SEA.2025.4)>DOI</a></font></p>
 
-<p><font size="2">📝 Verbeek, H., Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Minimizing the Minimizers via Alphabet Reordering. In S. Inenaga & S. J. Puglisi (Eds.), 35th Annual Symposium on Combinatorial Pattern Matching, CPM 2024, June 25-27, 2024, Fukuoka, Japan (Vol. 296, p. 28:1-28:13). Schloss Dagstuhl - Leibniz-Zentrum für Informatik. [DOI](https://doi.org/10.4230/LIPICS.CPM.2024.28)</font></p>
+<p><font size="2">📝 Verbeek, H., Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Minimizing the Minimizers via Alphabet Reordering. In S. Inenaga & S. J. Puglisi (Eds.), 35th Annual Symposium on Combinatorial Pattern Matching, CPM 2024, June 25-27, 2024, Fukuoka, Japan (Vol. 296, p. 28:1-28:13). Schloss Dagstuhl - Leibniz-Zentrum für Informatik. <a href=https://doi.org/10.4230/LIPICS.CPM.2024.28>DOI</a></font></p>
 
-<p><font size="2">📝 Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Text Indexing for Long Patterns using Locally Consistent Anchors. [URL](https://arxiv.org/abs/2407.11819)</font></p>
+<p><font size="2">📝 Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Text Indexing for Long Patterns using Locally Consistent Anchors. <a href=https://arxiv.org/abs/2407.11819>URL</a></font></p>
 
-<p><font size="2">📝 Ayad, L. A. K., Loukides, G., Pissis, S. P., & Verbeek, H. (2024). Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast. In J. A. Soto & A. Wiese (Eds.), LATIN 2024: Theoretical Informatics - 16th Latin American Symposium, Puerto Varas, Chile, March 18-22, 2024, Proceedings, Part I (Vol. 14578, pp. 162–177). Springer. [DOI](https://doi.org/10.1007/978-3-031-55598-5_11)</font></p>
+<p><font size="2">📝 Ayad, L. A. K., Loukides, G., Pissis, S. P., & Verbeek, H. (2024). Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast. In J. A. Soto & A. Wiese (Eds.), LATIN 2024: Theoretical Informatics - 16th Latin American Symposium, Puerto Varas, Chile, March 18-22, 2024, Proceedings, Part I (Vol. 14578, pp. 162–177). Springer. <a href=https://doi.org/10.1007/978-3-031-55598-5_11>DOI</a></font></p>
 
-<p><font size="2">A full list can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=i51w1C0AAAAJ&view_op=list_works&sortby=pubdate) or [DBLP](https://dblp.org/pid/193/1681.html).</font></p>
+<p><font size="2">A full list can be found on <a href=https://scholar.google.com/citations?hl=en&user=i51w1C0AAAAJ&view_op=list_works&sortby=pubdate)>[Google Scholar]</a> or <a href=https://dblp.org/pid/193/1681.html>[DBLP]</a>.</font></p>
 
 ***
 # Activities 
