@@ -5,23 +5,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size="2">I am currently a Lecturer in Computer Science within the Department of Computer Science at Brunel University of London. I completed my PhD at King's College London in 2019.</font>
-<br style="line-height: 0px;">
-<font size="2">My current work lies in the creation of algorithms and data structures with applications in computational biology. Specifically, this involves creating tools that manipulate sequential data, which can aid biological research. I also work on the development of string algorithms with applications in pattern matching, indexing and sequence comparison.</font>
+<p><font size="2">I am currently a Lecturer in Computer Science within the Department of Computer Science at Brunel University of London. I completed my PhD at King's College London in 2019.</font></p>
+
+<p><font size="2">My current work lies in the creation of algorithms and data structures with applications in computational biology. Specifically, this involves creating tools that manipulate sequential data, which can aid biological research. I also work on the development of string algorithms with applications in pattern matching, indexing and sequence comparison.</font></p>
 
 ***
 # Publications
-##### Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2025). Text Indexing for Long Patterns using Locally Consistent Anchors. The VLDB Journal. 34(5): 58. [DOI](https://doi.org/10.1007/s00778-025-00935-7)
+<p><font size="2">📝 Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2025). Text Indexing for Long Patterns using Locally Consistent Anchors. The VLDB Journal. 34(5): 58. [DOI](https://doi.org/10.1007/s00778-025-00935-7)</font></p>
 
-##### Ayad, L. A. K., Fici, G., Koerkamp, R. G., Loukides, G., Patro, R., Pibiri, G. E., Pissis, S. P. (2025) U-Index: A Universal Indexing Framework for Matching Long Patterns. SEA 2025: 4:1-4:18 [DOI](https://doi.org/10.4230/LIPIcs.SEA.2025.4)
+<p><font size="2">📝 Ayad, L. A. K., Fici, G., Koerkamp, R. G., Loukides, G., Patro, R., Pibiri, G. E., Pissis, S. P. (2025) U-Index: A Universal Indexing Framework for Matching Long Patterns. SEA 2025: 4:1-4:18 [DOI](https://doi.org/10.4230/LIPIcs.SEA.2025.4)</font></p>
 
-###### 📝 Verbeek, H., Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Minimizing the Minimizers via Alphabet Reordering. In S. Inenaga & S. J. Puglisi (Eds.), 35th Annual Symposium on Combinatorial Pattern Matching, CPM 2024, June 25-27, 2024, Fukuoka, Japan (Vol. 296, p. 28:1-28:13). Schloss Dagstuhl - Leibniz-Zentrum für Informatik. [DOI](https://doi.org/10.4230/LIPICS.CPM.2024.28)
+<p><font size="2">📝 Verbeek, H., Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Minimizing the Minimizers via Alphabet Reordering. In S. Inenaga & S. J. Puglisi (Eds.), 35th Annual Symposium on Combinatorial Pattern Matching, CPM 2024, June 25-27, 2024, Fukuoka, Japan (Vol. 296, p. 28:1-28:13). Schloss Dagstuhl - Leibniz-Zentrum für Informatik. [DOI](https://doi.org/10.4230/LIPICS.CPM.2024.28)</font></p>
 
-###### 📝 Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Text Indexing for Long Patterns using Locally Consistent Anchors. [URL](https://arxiv.org/abs/2407.11819) 
+<p><font size="2">📝 Ayad, L. A. K., Loukides, G., & Pissis, S. P. (2024). Text Indexing for Long Patterns using Locally Consistent Anchors. [URL](https://arxiv.org/abs/2407.11819)</font></p>
 
-###### 📝 Ayad, L. A. K., Loukides, G., Pissis, S. P., & Verbeek, H. (2024). Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast. In J. A. Soto & A. Wiese (Eds.), LATIN 2024: Theoretical Informatics - 16th Latin American Symposium, Puerto Varas, Chile, March 18-22, 2024, Proceedings, Part I (Vol. 14578, pp. 162–177). Springer. [DOI](https://doi.org/10.1007/978-3-031-55598-5_11)
+<p><font size="2">📝 Ayad, L. A. K., Loukides, G., Pissis, S. P., & Verbeek, H. (2024). Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast. In J. A. Soto & A. Wiese (Eds.), LATIN 2024: Theoretical Informatics - 16th Latin American Symposium, Puerto Varas, Chile, March 18-22, 2024, Proceedings, Part I (Vol. 14578, pp. 162–177). Springer. [DOI](https://doi.org/10.1007/978-3-031-55598-5_11)</font></p>
 
-###### A full list can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=i51w1C0AAAAJ&view_op=list_works&sortby=pubdate) or [DBLP](https://dblp.org/pid/193/1681.html).
+<p><font size="2">A full list can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=i51w1C0AAAAJ&view_op=list_works&sortby=pubdate) or [DBLP](https://dblp.org/pid/193/1681.html).</font></p>
 
 ***
 # Activities 
