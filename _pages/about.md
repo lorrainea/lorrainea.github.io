@@ -51,5 +51,5 @@ redirect_from:
 <p><font size="2">🥇 2021: Brunel University Research Seminar Series Awards 2021-2022.</font></p>
 <p><font size="2">🥇 2019: The London Mathematical Society - Computer Science Small Grants.</font></p>
 <p><font size="2">🥇 2017: Associate Fellow of the Higher Education Academy.</font></p>
-###### 🥇 2016-2017: Outstanding Teaching Assistant Award - King's College London (Undergraduate).
-###### 🥇 2015-2019: Doctoral Training Account studentship awarded by the Engineering and Physical Sciences Research Council (EPSRC).
+<p><font size="2">🥇 2016-2017: Outstanding Teaching Assistant Award - King's College London (Undergraduate).</font></p>
+<p><font size="2">🥇 2015-2019: Doctoral Training Account studentship awarded by the Engineering and Physical Sciences Research Council (EPSRC).</font></p>
