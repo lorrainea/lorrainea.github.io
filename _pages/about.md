@@ -26,7 +26,7 @@ redirect_from:
 ***
 ## Activities 
 ### Presentations
-<p><font size="2"><a href="https://bioinformatics.it/bits2023/1633/workshop">BITS 2023 (Bari)</a> ▪️ EMBnet AGM 2022 (Athens) ▪️ <a href="https://www.mygoblet.org/goblet-agm-2021-11-15-october-agenda-and-registration/">GOBLET/EMBnet AGM 2021 (online)</a> ▪️ String Bio 2018 ▪️ ECCB 2018 (Athens) ▪️ DSB 2017 (Amsterdam).</font></p>
+<p><font size="2"><a href="https://bioinformatics.it/bits2023/1633/workshop">BITS 2023 (Bari)</a> ▪️ EMBnet AGM 2022 (Athens) ▪️ <a href="https://www.mygoblet.org/goblet-agm-2021-11-15-october-agenda-and-registration/">GOBLET/EMBnet AGM 2021 (online)</a> ▪️ String Bio 2018 (Orlando) ▪️ ECCB 2018 (Athens) ▪️ DSB 2017 (Amsterdam).</font></p>
 
 ### Conference Chairing 
 <p><font size="2">SPIRE 2020 ▪️ MatBio 2018 ▪️ LSD & LAW 2018</font></p>
