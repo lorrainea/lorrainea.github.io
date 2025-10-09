@@ -21,7 +21,7 @@ redirect_from:
 
 <p><font size="2">📝 Ayad, L. A. K., Loukides, G., Pissis, S. P., & Verbeek, H. (2024). Sparse Suffix and LCP Array: Simple, Direct, Small, and Fast. In J. A. Soto & A. Wiese (Eds.), LATIN 2024: Theoretical Informatics - 16th Latin American Symposium, Puerto Varas, Chile, March 18-22, 2024, Proceedings, Part I (Vol. 14578, pp. 162–177). Springer. <a href="https://doi.org/10.1007/978-3-031-55598-5_11">[DOI]</a></font></p>
 
-<p><font size="2">A full list can be found on <a href="https://scholar.google.com/citations?hl=en&user=i51w1C0AAAAJ&view_op=list_works&sortby=pubdate">[Google Scholar]</a> or <a href="https://dblp.org/pid/193/1681.html">[DBLP]</a>.</font></p>
+<p><font size="2">A full list can be found on <a href="https://scholar.google.com/citations?hl=en&user=i51w1C0AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> or <a href="https://dblp.org/pid/193/1681.html">DBLP</a>.</font></p>
 
 ***
 ## Activities 
