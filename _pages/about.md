@@ -38,7 +38,7 @@ redirect_from:
 <p><font size="2">BBW 2023 ▪️ BBW 2022 ▪️ MatBio 2018 ▪️ MatBio 2017 ▪️ SEA 2017 ▪️ LSD & LAW 2017 ▪️ MatBio 2016</font></p>
 
 ### Paper Reviews
-<p><font size="2">Journal of Supercomputing ▪️ BMC AMB ▪️ BMC Bioinformatics ▪️ SPIRE ▪️ WABI ▪️ ESWA ▪️ IWOCA ▪️ Oxford Bioinformatics ▪️ ECCB ▪️ JDA ▪️ CPM ▪️ SWAT ▪️ JDPC</font></p>
+<p><font size="2">Natural Computing ▪️ Journal of Supercomputing ▪️ BMC AMB ▪️ BMC Bioinformatics ▪️ SPIRE ▪️ WABI ▪️ ESWA ▪️ IWOCA ▪️ Oxford Bioinformatics ▪️ ECCB ▪️ JDA ▪️ CPM ▪️ SWAT ▪️ JDPC</font></p>
 
 ### Guest Editing
 <p><font size="2"><a href="https://www.sciencedirect.com/special-issue/10M68D5RQ2V">LSD & LAW 2019</a> special issue for the journal of Theoretical Computer Science.</font></p>
