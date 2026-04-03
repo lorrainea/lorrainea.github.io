@@ -25,6 +25,9 @@ redirect_from:
 
 ***
 ## Activities 
+### Editorial Board Member
+<p><font size="2">BMC Bioinformatics</font></p>
+
 ### Presentations
 <p><font size="2"><a href="https://bioinformatics.it/bits2023/1633/workshop">BITS 2023 (Bari)</a> ▪️ EMBnet AGM 2022 (Athens) ▪️ <a href="https://www.mygoblet.org/goblet-agm-2021-11-15-october-agenda-and-registration/">GOBLET/EMBnet AGM 2021 (online)</a> ▪️ String Bio 2018 (Orlando) ▪️ ECCB 2018 (Athens) ▪️ DSB 2017 (Amsterdam).</font></p>
 
@@ -45,6 +48,7 @@ redirect_from:
 
 ***
 ## Grants and Awards
+<p><font size="2">🥇 2026: Brunel University Commercialisation & Industry Engagement Funding.</font></p>
 <p><font size="2">🥇 2024: Brunel University Mid and Early Career Academic Research Support Scheme.</font></p>
 <p><font size="2">🥇 2023: The London Mathematical Society - Conference Grants.</font></p>
 <p><font size="2">🥇 2022: Fellow of the Higher Education Academy (Distinction).</font></p>
